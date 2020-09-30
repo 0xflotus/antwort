@@ -61,7 +61,7 @@ Included templates as of v1.0.0 release (14 October 2014):
   </tbody>
 </table>
 
-NOTE: many Litmus thumbnails are broken and not showning the white background container. But if you view the large version, you will see that **the Antwort templates render perfectly as intended**.
+NOTE: many Litmus thumbnails are broken and not showing the white background container. But if you view the large version, you will see that **the Antwort templates render perfectly as intended**.
 
 Screenshots updated on 13 January 2016.
 
